@@ -46,7 +46,7 @@ such as special offers, loyalty programs, or retargeting campaigns.
 With this approach, Olist is expected to reach out to customers with relevant and personalized strategies, which is expected to increase loyalty.
 ***
 # Stakeholder
-Marketing Team
+In solving this problem, we as data scientists/data analysts play an important role in building data-driven segmentation models, while the marketing team uses the segmentation to develop and implement more effective marketing strategies. Close collaboration between the two teams ensured that the analytics results were translated into concrete actions that positively impacted the business.
 ***
 # Segmented Customer
 ![See Plot](https://raw.githubusercontent.com/PurwadhikaDev/JaguarGroup_DTI_01_FinalProject/main/Assets/LRFM%20Distribution%20Area%20Chart.png)
