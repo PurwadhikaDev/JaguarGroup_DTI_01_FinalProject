@@ -54,6 +54,14 @@ Marketing Team
 - Cluster 1: **Hibernating Customers**
 - Cluster 2: **Champion**
 - Cluster 3: **Potential Loyalist**
+
+| Cluster | Customer_Total | Length_Range | Recency_Range | Frequency_Range | Monetary_Range      |
+|---------|----------------|--------------|---------------|-----------------|---------------------|
+| 0       | 50523          | 0 - 549      | 0 - 308       | 1 - 5           | 9.59 - 365.38       |
+| 1       | 37483          | 308 - 772    | 53 - 772      | 1 - 6           | 10.07 - 406.92      |
+| 2       | 849            | 41 - 742     | 41 - 742      | 1 - 5           | 1196.78 - 13664.08  |
+| 3       | 7238           | 34 - 743     | 0 - 743       | 1 - 17          | 327.39 - 1195.23    |
+
 ***
 # Data Overview
 [Tableau Dashboard](https://public.tableau.com/views/OlistE-commerceDashboard_17245810079510/ProductSalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
