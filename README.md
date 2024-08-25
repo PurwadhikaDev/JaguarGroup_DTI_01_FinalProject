@@ -49,6 +49,13 @@ With this approach, Olist is expected to reach out to customers with relevant an
 Marketing Team
 ***
 # Segmented Customer
-![See Plot](path/to/your-image.png)
+![See Plot](https://raw.githubusercontent.com/PurwadhikaDev/JaguarGroup_DTI_01_FinalProject/main/Assets/LRFM%20Distribution%20Area%20Chart.png)
+- Cluster 0: **New Customers**
+- Cluster 1: **Hibernating Customers**
+- Cluster 2: **Champion**
+- Cluster 3: **Potential Loyalist**
+***
+# Data Overview
+[Tableau Dashboard](https://public.tableau.com/views/OlistE-commerceDashboard_17245810079510/ProductSalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
